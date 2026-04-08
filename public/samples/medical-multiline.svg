@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#f0fdf4"/>
+  <rect x="4" y="4" width="92" height="92" fill="#fff" stroke="#bbf7d0" stroke-width="0.3"/>
+  <text x="6" y="10" font-size="2.6" fill="#14532d" font-family="system-ui,sans-serif">Regional Health Clinic  Itemized</text>
+  <text x="6" y="16" font-size="2.2" fill="#166534" font-family="system-ui,sans-serif">Maria Santos · 03/15/2026</text>
+  <text x="6" y="24" font-size="1.9" fill="#15803d" font-family="system-ui,sans-serif">99213 Office visit .......... $140.00</text>
+  <text x="6" y="30" font-size="1.9" fill="#15803d" font-family="system-ui,sans-serif">80053 Lab panel ............ $210.00</text>
+  <text x="6" y="36" font-size="1.9" fill="#15803d" font-family="system-ui,sans-serif">73030 X-ray ................ $95.00</text>
+  <text x="6" y="44" font-size="2.4" fill="#14532d" font-family="system-ui,sans-serif">Total: $445.00 · Copay collected</text>
+  <text x="6" y="90" font-size="2" fill="#86efac" font-family="system-ui,sans-serif">Multi-line medical demo</text>
+</svg>

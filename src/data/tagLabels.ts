@@ -1,0 +1,21 @@
+/** Allowed tag labels for relabel / add-tag flows (matches product taxonomy). */
+export const TAG_LABEL_OPTIONS = [
+  "provider",
+  "department",
+  "patient",
+  "guarantor",
+  "date",
+  "statement_date",
+  "payment_date",
+  "service_date",
+  "amount",
+  "previous_balance",
+  "payment_method",
+  "authorization_number",
+  "receipt_number",
+  "line_item",
+  "eligible_item",
+  "OTC_item",
+  "unclear_amount",
+  "doc_type_signal",
+] as const;

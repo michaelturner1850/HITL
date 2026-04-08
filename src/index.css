@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/*
+  Enterprise review UI — restrained palette.
+  Overlay semantics: green confirmed, amber review, red rejected, blue inferred, gray missing.
+*/
+
+@layer base {
+  body {
+    @apply antialiased bg-slate-50 text-slate-900;
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+}
