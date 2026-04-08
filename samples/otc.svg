@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#faf5ff"/>
+  <rect x="5" y="5" width="90" height="90" fill="#fff" stroke="#e9d5ff" stroke-width="0.3"/>
+  <text x="8" y="14" font-size="3" fill="#581c87" font-family="system-ui,sans-serif">QuickMart #8841</text>
+  <text x="8" y="22" font-size="2.4" fill="#6b21a8" font-family="system-ui,sans-serif">OTC purchase  no patient name printed</text>
+  <text x="8" y="32" font-size="2.2" fill="#7e22ce" font-family="system-ui,sans-serif">04/01/2026 09:41</text>
+  <text x="8" y="44" font-size="2.4" fill="#3b0764" font-family="system-ui,sans-serif">Cetirizine 10mg, Electrolyte mix</text>
+  <text x="8" y="54" font-size="2.6" fill="#1e1b4b" font-family="system-ui,sans-serif">Subtotal $24.18 · Card present</text>
+  <text x="8" y="90" font-size="2" fill="#a78bfa" font-family="system-ui,sans-serif">OTC / missing recipient demo</text>
+</svg>
